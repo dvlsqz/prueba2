@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 prueba desde rama main
+=======
+prueba de funciones unitarias
+>>>>>>> dev
